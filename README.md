@@ -1,1 +1,1 @@
-# SoftDrink-brands-clustering-and-segmentation-
+Soft Drink's brand clustering and segmentation to find out which is the most favourite brand within the individual cluster based on their occurrence count. A soft drink dataset is given for the analysis.

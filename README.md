@@ -9,4 +9,4 @@ c) Which cities prefer which brand the most?
 d) Show a plot that shows the pattern or trend line that price vs quantity follows in each cluster 
 
 
-e) Built a POWER BI DASHBOARD FROM THE DATA SHOWING VARIOUS PARAMETERS 
+e) Built a Dynamic POWER BI DASHBOARD From the data
